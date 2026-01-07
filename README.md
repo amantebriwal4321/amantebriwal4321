@@ -1,8 +1,25 @@
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Aman%20Tibriwal&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?
-  font=Fira+Code&size=26&duration=3000&pause=1000&
-  color=22D3EE&center=true&vCenter=true&width=600&
-  lines=Hi,+I'm+Aman+Tibriwal;AI+%7C+Automation+%7C+Web+Developer;Building+Intelligent+Systems" />
+  font=Fira+Code&
+  size=22&
+  duration=3000&
+  pause=1000&
+  color=38BDF8&
+  center=true&
+  vCenter=true&
+  width=600&
+  lines=AI+%7C+Automation+%7C+Full+Stack+Development;Building+Intelligent+Systems" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20Automation-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ROLE-Developer-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-Building%20Cool%20Stuff-EC4899?style=for-the-badge" />
 </p>
 
 ---
@@ -12,60 +29,70 @@
 - 🎓 B.Tech CSE student  
 - 🤖 Interested in **AI, Automation & Full-Stack Development**
 - 🧠 Hackathon enthusiast & project builder
-- 🚀 Focused on **real-world, practical projects**
+- 🚀 Focused on real-world, practical projects
 
 ---
 
 ## 💻 Languages & Frameworks
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-1E293B?style=for-the-badge&logo=python&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/JavaScript-1E293B?style=for-the-badge&logo=javascript&logoColor=FACC15" />
+  <img src="https://img.shields.io/badge/HTML-1E293B?style=for-the-badge&logo=html5&logoColor=F97316" />
+</p>
 
 ---
 
 ## 🤖 AI / ML & Data Science
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-1E293B?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+  <img src="https://img.shields.io/badge/OpenCV-1E293B?style=for-the-badge&logo=opencv&logoColor=5C3EE8" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-1E293B?style=for-the-badge&logo=scikitlearn&logoColor=F59E0B" />
+</p>
 
 ---
 
 ## 🌐 Web & Backend
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+<p>
+  <img src="https://img.shields.io/badge/React-1E293B?style=for-the-badge&logo=react&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Node.js-1E293B?style=for-the-badge&logo=node.js&logoColor=22C55E" />
+  <img src="https://img.shields.io/badge/Express.js-1E293B?style=for-the-badge&logo=express&logoColor=ffffff" />
+</p>
 
 ---
 
 ## 🗄️ Databases & Cloud
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+<p>
+  <img src="https://img.shields.io/badge/MySQL-1E293B?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/Firebase-1E293B?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
 - 🔹 **Currency Converter** – Real-time currency conversion (JavaScript)
-- 🔹 **AI Model** – Basic ML experimentation
+- 🔹 **AI Model** – ML experimentation & learning
 - 🔹 **HackNocturne 2025** – Hackathon team project
-- 🔹 **Portfolio Website** – Personal portfolio
+- 🔹 **Portfolio Website** – Personal portfolio showcasing skills
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amantibriwal4321&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amantebriwal4321&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amantibriwal4321&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amantebriwal4321&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🚀 *“Learning fast. Building faster.”*
+<p align="center">
+  <i>"Learning fast. Building faster."</i>
+</p>
