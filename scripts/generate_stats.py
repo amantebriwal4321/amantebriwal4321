@@ -490,12 +490,18 @@ def ago(iso, now):
     return "%dy ago" % (d // 365)
 
 
-def recent(nodes, now):
+def recent(nodes, now, exclude=None):
     """The six most recently pushed public repos - so the profile ages well
     on its own instead of pointing at whatever was current the day it was
-    written."""
+    written.
+
+    The profile repo itself is excluded: the nightly stats job commits to it,
+    so it would sit at the top reading "today" forever and push out a real
+    project.
+    """
     W, H = 900, 214
-    items = sorted((n for n in nodes if n.get("pushedAt")),
+    items = sorted((n for n in nodes
+                    if n.get("pushedAt") and n.get("name") != exclude),
                    key=lambda n: n["pushedAt"], reverse=True)[:6]
     s = frame(W, H, "~ recently shipped")
     cols, rows = (30, 470), (80, 126, 172)
@@ -558,7 +564,7 @@ def main():
 
     write("hero.svg", hero("AMAN TEBRIWAL",
                            "I build cool stuff that has potential."))
-    write("recent.svg", recent(nodes, datetime.now(timezone.utc)))
+    write("recent.svg", recent(nodes, datetime.now(timezone.utc), exclude=login))
     write("footer.svg", footer("ship it, measure it, then make it beautiful"))
     write("headline.svg", headline([
         "CS undergrad  ·  Bengaluru, India",
