@@ -1,0 +1,46 @@
+name: refresh stats
+
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    # This job commits the SVGs it generates. Ignoring the output path stops
+    # its own commit from re-triggering it, while still letting a real code
+    # change regenerate immediately.
+    paths-ignore:
+      - "assets/**"
+      - "README.md"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-stats
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    if: github.actor != 'github-actions[bot]'
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Draw the graphics
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_LOGIN: ${{ github.repository_owner }}
+        run: python3 scripts/generate_stats.py
+
+      - name: Commit only if something actually changed
+        run: |
+          if [ -z "$(git status --porcelain -- assets)" ]; then
+            echo "no change"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- assets
+          git commit -m "stats: refresh"
+          git push

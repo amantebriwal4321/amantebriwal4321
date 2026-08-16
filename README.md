@@ -10,10 +10,9 @@
        TYPING ANIMATION
      ═══════════════════════════════════════════════════════════════ -->
 
+<!-- Drawn by scripts/generate_stats.py, not by a third-party service. -->
 <p align="center">
-  <a href="https://amantebriwal4321.github.io/My-Portfolio/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=C23E6E&center=true&vCenter=true&random=false&width=650&lines=CS+undergrad+%C2%B7+Bengaluru%2C+India;AI+%2B+Automation+%2B+Full-Stack;Computer+vision%2C+agents%2C+and+real-time+data;Learning+fast.+Building+faster." alt="Typing SVG" />
-  </a>
+  <img src="assets/headline.svg" width="900" alt="CS undergrad, Bengaluru. AI, automation, full-stack. Computer vision, agents, real-time data." />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════
@@ -167,45 +166,27 @@ GenAI **multi-agent** assistant for international stadium visitors — navigatio
 
 ## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28" /> By the Numbers
 
+<blockquote>
+Every graphic below is drawn inside this repository by a scheduled action and
+committed as a plain SVG. No third-party widgets, nothing that can rate-limit
+or go dark.
+</blockquote>
+
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amantebriwal4321&theme=github_dark" width="100%" alt="Profile summary" />
+<img src="assets/activity.svg" width="900" alt="Contribution activity: yearly total, weekly columns, commits, pull requests, issues, reviews, repos, stars, followers" />
 
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amantebriwal4321&theme=github_dark" alt="Repos per language" />
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amantebriwal4321&theme=github_dark" alt="Most commit language" />
-
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amantebriwal4321&theme=github_dark" alt="Stats" />
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amantebriwal4321&theme=github_dark&utcOffset=5.5" alt="Productive time" />
-
-<br /><br />
-
-<img height="180" src="https://streak-stats.demolab.com?user=amantebriwal4321&hide_border=true&background=0D1117&stroke=30363D&ring=C23E6E&fire=F778BA&currStreakLabel=C23E6E&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Streak" />
+<img src="assets/streak.svg" width="442" alt="Current and longest contribution streak with date ranges" />
+<img src="assets/langs.svg" width="442" alt="Top languages by bytes across public repositories" />
 
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════
-       ACTIVITY GRAPH
+       THE YEAR · one character per day
      ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amantebriwal4321&bg_color=0D1117&color=C9D1D9&line=C23E6E&point=F778BA&area=true&area_color=7C2D4A&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Activity graph" />
-</div>
-
-<br />
-
-<!-- ═══════════════════════════════════════════════════════════════
-       SNAKE · eats the contribution graph
-       (powered by .github/workflows/snake.yml)
-     ═══════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="28" /> Watch the Snake Eat My Commits
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amantebriwal4321/amantebriwal4321/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amantebriwal4321/amantebriwal4321/output/snake.svg" />
-    <img src="https://raw.githubusercontent.com/amantebriwal4321/amantebriwal4321/output/snake.svg" alt="Contribution snake" width="100%" />
-  </picture>
+  <img src="assets/year.svg" width="900" alt="The last year of contributions, rendered one character per day" />
 </div>
 
 <br />
