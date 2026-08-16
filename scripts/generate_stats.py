@@ -22,9 +22,9 @@ from datetime import datetime, timedelta, timezone
 # ── palette ───────────────────────────────────────────────────────────────
 BG      = "#0D1117"
 BORDER  = "#30363D"
-ACCENT  = "#C23E6E"
-GLOW    = "#F778BA"
-DEEP    = "#7C2D4A"
+ACCENT  = "#10B981"
+GLOW    = "#6EE7B7"
+DEEP    = "#047857"
 TEXT    = "#C9D1D9"
 MUTED   = "#8B949E"
 

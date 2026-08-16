@@ -3,7 +3,7 @@
      ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4E1E32,50:7C2D4A,100:C23E6E&height=200&section=header&text=Aman%20Tebriwal&fontSize=58&fontColor=FFFFFF&fontAlignY=34&animation=fadeIn&desc=I%20build%20cool%20stuff%20that%20has%20potential&descAlignY=54&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:065F46,50:047857,100:10B981&height=200&section=header&text=Aman%20Tebriwal&fontSize=58&fontColor=FFFFFF&fontAlignY=34&animation=fadeIn&desc=I%20build%20cool%20stuff%20that%20has%20potential&descAlignY=54&descSize=16" width="100%" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════
@@ -21,15 +21,15 @@
 
 <p align="center">
   <a href="https://amantebriwal4321.github.io/My-Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-C23E6E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/aman-tebriwal-67855b354">
-    <img src="https://img.shields.io/badge/LinkedIn-7C2D4A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-047857?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:amantebriwal104@gmail.com">
-    <img src="https://img.shields.io/badge/Email-4E1E32?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-065F46?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=amantebriwal4321&style=for-the-badge&color=C23E6E&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=amantebriwal4321&style=for-the-badge&color=10B981&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 <br />
@@ -154,7 +154,7 @@ GenAI **multi-agent** assistant for international stadium visitors — navigatio
 
 <div align="center">
   <a href="https://github.com/amantebriwal4321?tab=repositories">
-    <img src="https://img.shields.io/badge/→%20Browse%20all%2050%2B%20repositories-C23E6E?style=for-the-badge&logoColor=white" alt="All repos" />
+    <img src="https://img.shields.io/badge/→%20Browse%20all%2050%2B%20repositories-10B981?style=for-the-badge&logoColor=white" alt="All repos" />
   </a>
 </div>
 
@@ -219,10 +219,10 @@ ask_me_about:
 ### 💬 Let's build something
 
 <a href="https://www.linkedin.com/in/aman-tebriwal-67855b354">
-  <img src="https://img.shields.io/badge/Say%20hi%20on%20LinkedIn-7C2D4A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/Say%20hi%20on%20LinkedIn-047857?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:amantebriwal104@gmail.com">
-  <img src="https://img.shields.io/badge/Drop%20me%20a%20mail-C23E6E?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Drop%20me%20a%20mail-10B981?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" />
 </a>
 
 <br /><br />
@@ -232,5 +232,5 @@ ask_me_about:
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C23E6E,50:7C2D4A,100:4E1E32&height=140&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:047857,100:065F46&height=140&section=footer" width="100%" />
 </p>
