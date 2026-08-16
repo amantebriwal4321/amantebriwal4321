@@ -3,7 +3,7 @@
      ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:065F46,50:047857,100:10B981&height=200&section=header&text=Aman%20Tebriwal&fontSize=58&fontColor=FFFFFF&fontAlignY=34&animation=fadeIn&desc=I%20build%20cool%20stuff%20that%20has%20potential&descAlignY=54&descSize=16" width="100%" />
+  <img src="assets/hero.svg" width="900" alt="Aman Tebriwal - I build cool stuff that has potential" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════
@@ -65,7 +65,7 @@ const aman = {
        TECH ARSENAL
      ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" /> Tech Arsenal
+## <samp>~ tech arsenal</samp>
 
 <div align="center">
 
@@ -93,7 +93,7 @@ const aman = {
        FEATURED WORK
      ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28" /> Featured Work
+## <samp>~ featured work</samp>
 
 <table>
 <tr>
@@ -161,10 +161,20 @@ GenAI **multi-agent** assistant for international stadium visitors — navigatio
 <br />
 
 <!-- ═══════════════════════════════════════════════════════════════
+       RECENTLY SHIPPED · pulled live from the API
+     ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="assets/recent.svg" width="900" alt="The six most recently pushed public repositories, with language and age" />
+</div>
+
+<br />
+
+<!-- ═══════════════════════════════════════════════════════════════
        STATS
      ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28" /> By the Numbers
+## <samp>~ by the numbers</samp>
 
 <blockquote>
 Every graphic below is drawn inside this repository by a scheduled action and
@@ -195,7 +205,7 @@ or go dark.
        NOW / NEXT
      ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28" /> Currently
+## <samp>~ currently</samp>
 
 ```yaml
 building:   StackRadar — momentum scoring + learning roadmaps for developers
@@ -232,5 +242,5 @@ ask_me_about:
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:047857,100:065F46&height=140&section=footer" width="100%" />
+  <img src="assets/footer.svg" width="900" alt="ship it, measure it, then make it beautiful" />
 </p>
