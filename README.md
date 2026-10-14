@@ -10,7 +10,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amantebriwal4321&label=Profile%20Views&color=7ee2a8&style=for-the-badge" alt="profile views"/>
   <a href="https://github.com/amantebriwal4321?tab=followers"><img src="https://img.shields.io/github/followers/amantebriwal4321?label=Followers&style=for-the-badge&color=203a43&logo=github" alt="followers"/></a>
   <a href="https://github.com/amantebriwal4321?tab=repositories"><img src="https://img.shields.io/badge/Repos-64-2c5364?style=for-the-badge&logo=github" alt="repos"/></a>
 </p>
