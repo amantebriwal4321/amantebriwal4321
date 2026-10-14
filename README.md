@@ -17,6 +17,7 @@
 
 <p align="center">
   <a href="https://amantebriwal4321.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-7ee2a8?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/aman-tebriwal-67855b354/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:amantebriwal104@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://stack-radar.vercel.app"><img src="https://img.shields.io/badge/StackRadar-Live-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
