@@ -157,18 +157,6 @@ class Aman:
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amantebriwal4321/amantebriwal4321/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amantebriwal4321/amantebriwal4321/output/github-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/amantebriwal4321/amantebriwal4321/output/github-snake-dark.svg" />
-  </picture>
-</p>
-
----
-
 ## 🌍 Open Source Journey
 
 ```diff
