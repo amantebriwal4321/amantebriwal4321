@@ -152,7 +152,7 @@ class Aman:
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=amantebriwal4321&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=3&title=Commits,Repositories,PullRequest" />
+  <img src="https://github-trophies.vercel.app/?username=amantebriwal4321&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6&title=Commits,Repositories,PullRequest,Issues,Stars,Followers" />
 </p>
 
 ---
