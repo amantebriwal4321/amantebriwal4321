@@ -25,10 +25,6 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-<table>
-<tr>
-<td width="55%">
-
 ```python
 class Aman:
     def __init__(self):
@@ -44,14 +40,9 @@ class Aman:
         return "I build cool stuff, that has a potential."
 ```
 
-</td>
-<td width="45%">
 <p align="center">
-<img src="./assets/terminal.svg" width="100%" alt="animated terminal"/>
+  <img src="./assets/terminal.svg" width="600" alt="animated terminal"/>
 </p>
-</td>
-</tr>
-</table>
 
 - 🔭 Building **[StackRadar](https://github.com/amantebriwal4321/StackRadar)** — a real-time tech intelligence engine
 - 🌱 Diving deep into **RAG pipelines, LLM APIs & computer vision**
