@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Aman%20Tebriwal&fontSize=60&fontColor=7ee2a8&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%E2%80%A2%20Dev%20Tools%20Builder%20%E2%80%A2%20Bengaluru&descAlignY=58&descSize=18" width="100%"/>
+  <img src="./assets/wave-header.svg" width="100%"/>
 </p>
 
 <p align="center">
@@ -86,27 +86,55 @@ class Aman:
 
 <table>
 <tr>
-<td align="center" width="33%">
-<a href="https://github.com/amantebriwal4321/StackRadar">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=amantebriwal4321&repo=StackRadar&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7ee2a8&icon_color=7ee2a8" />
-</a>
-<br/>📡 <b>Scores 30+ dev tools 0–100</b> by momentum across GitHub, HN, Reddit & Dev.to with an AI pipeline.<br/>
+<td align="center" width="33%" valign="top">
+<a href="https://github.com/amantebriwal4321/StackRadar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=amantebriwal4321&repo=StackRadar&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7ee2a8&icon_color=7ee2a8" /></a>
+<br/>📡 <b>Tech intelligence engine:</b> scores 30+ dev tools 0–100 by momentum across GitHub, HN, Reddit & Dev.to.<br/>
 <a href="https://stack-radar.vercel.app"><img src="https://img.shields.io/badge/▶%20Live%20Demo-7ee2a8?style=flat-square"/></a>
 </td>
-<td align="center" width="33%">
-<a href="https://github.com/amantebriwal4321/SignNova">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=amantebriwal4321&repo=SignNova&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7ee2a8&icon_color=7ee2a8" />
-</a>
-<br/>🤟 <b>Real-time ASL detection</b> — a CNN that turns American Sign Language gestures into text & speech.
+<td align="center" width="33%" valign="top">
+<a href="https://github.com/amantebriwal4321/Fly_code"><img src="https://github-readme-stats.vercel.app/api/pin/?username=amantebriwal4321&repo=Fly_code&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7ee2a8&icon_color=7ee2a8" /></a>
+<br/>🪰 <b>Nona:</b> a fly over Bangalore steered by 166 real neurons from the Drosophila connectome, learning words via synaptic plasticity.<br/>
+<a href="https://amantebriwal4321.github.io/Fly_code/"><img src="https://img.shields.io/badge/▶%20Live%20Demo-7ee2a8?style=flat-square"/></a>
 </td>
-<td align="center" width="33%">
-<a href="https://github.com/amantebriwal4321/greenchain-conserve">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=amantebriwal4321&repo=greenchain-conserve&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7ee2a8&icon_color=7ee2a8" />
-</a>
-<br/>♻️ <b>IoT smart bin</b> for greener, smarter waste management.
+<td align="center" width="33%" valign="top">
+<a href="https://github.com/amantebriwal4321/cardiolens"><img src="https://github-readme-stats.vercel.app/api/pin/?username=amantebriwal4321&repo=cardiolens&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7ee2a8&icon_color=7ee2a8" /></a>
+<br/>❤️ <b>CardioLens:</b> CAD & per-vessel stenosis prediction on an interactive 3D heart. Multimodal AI Hackathon 2026.
+</td>
+</tr>
+<tr>
+<td align="center" width="33%" valign="top">
+<a href="https://github.com/amantebriwal4321/vaultvoice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=amantebriwal4321&repo=vaultvoice&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7ee2a8&icon_color=7ee2a8" /></a>
+<br/>🎙️ <b>VaultVoice:</b> privacy-first voice memory vault with PII guard, Qdrant vectors & Lyzr agents.
+</td>
+<td align="center" width="33%" valign="top">
+<a href="https://github.com/amantebriwal4321/stackradar-mcp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=amantebriwal4321&repo=stackradar-mcp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7ee2a8&icon_color=7ee2a8" /></a>
+<br/>🔌 <b>StackRadar MCP:</b> MCP server exposing dev-tool momentum scores to Alexa+ and any MCP client.
+</td>
+<td align="center" width="33%" valign="top">
+<a href="https://github.com/amantebriwal4321/kisan-setu-aws"><img src="https://github-readme-stats.vercel.app/api/pin/?username=amantebriwal4321&repo=kisan-setu-aws&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7ee2a8&icon_color=7ee2a8" /></a>
+<br/>🌾 <b>Kisan Setu:</b> predicts mandi price crashes and routes crop surplus to nearby processing units. SIH 2026.<br/>
+<a href="https://sih-farm-setu.vercel.app"><img src="https://img.shields.io/badge/▶%20Live%20Demo-7ee2a8?style=flat-square"/></a>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%" valign="top">
+<a href="https://github.com/amantebriwal4321/Vote_shield"><img src="https://github-readme-stats.vercel.app/api/pin/?username=amantebriwal4321&repo=Vote_shield&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7ee2a8&icon_color=7ee2a8" /></a>
+<br/>🛡️ <b>VoteShield:</b> election guardian with live incident maps, voter-roll audits & a multilingual AI chatbot.<br/>
+<a href="https://voteshield-production.up.railway.app/"><img src="https://img.shields.io/badge/▶%20Live%20Demo-7ee2a8?style=flat-square"/></a>
+</td>
+<td align="center" width="33%" valign="top">
+<a href="https://github.com/amantebriwal4321/Stadium_Virtual__AI_Assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=amantebriwal4321&repo=Stadium_Virtual__AI_Assistant&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7ee2a8&icon_color=7ee2a8" /></a>
+<br/>🏟️ <b>Unity26:</b> multi-agent GenAI stadium companion with local RAG for FIFA World Cup 2026.<br/>
+<a href="https://amantebriwal4321.github.io/Stadium_Virtual__AI_Assistant/frontend/index.html"><img src="https://img.shields.io/badge/▶%20Live%20Demo-7ee2a8?style=flat-square"/></a>
+</td>
+<td align="center" width="33%" valign="top">
+<a href="https://github.com/amantebriwal4321/SignNova"><img src="https://github-readme-stats.vercel.app/api/pin/?username=amantebriwal4321&repo=SignNova&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7ee2a8&icon_color=7ee2a8" /></a>
+<br/>🤟 <b>SignNova:</b> real-time ASL detection, a CNN turning sign gestures into text & speech.
 </td>
 </tr>
 </table>
+
+<p align="center"><b>More builds:</b> 🌱 <a href="https://github.com/amantebriwal4321/Agroshield_ai">AgroShield AI</a> · 🛣️ <a href="https://road-pulse-ai.vercel.app">RoadPulse</a> · ♻️ <a href="https://github.com/amantebriwal4321/greenchain-conserve">GreenChain</a> · 💼 <a href="https://amantebriwal4321.github.io/My-Portfolio/">Portfolio</a></p>
 
 ---
 
@@ -121,14 +149,10 @@ class Aman:
   <img src="https://streak-stats.demolab.com?user=amantebriwal4321&theme=tokyonight&hide_border=true&background=0d1117&ring=7ee2a8&fire=7ee2a8&currStreakLabel=7ee2a8" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amantebriwal4321&bg_color=0d1117&color=7ee2a8&line=2c5364&point=7ee2a8&area=true&area_color=203a43&hide_border=true" />
-</p>
-
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amantebriwal4321&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+  <img src="https://github-trophies.vercel.app/?username=amantebriwal4321&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
 </p>
 
 ---
@@ -159,5 +183,5 @@ class Aman:
 
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+  <img src="./assets/wave-footer.svg" width="100%"/>
 </p>
