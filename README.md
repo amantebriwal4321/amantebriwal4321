@@ -21,7 +21,11 @@
   <a href="https://stack-radar.vercel.app"><img src="https://img.shields.io/badge/StackRadar-Live-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
----
+<p align="center">
+  <img src="./assets/neural.svg" width="100%" alt="animated neural network"/>
+</p>
+
+<p align="center"><img src="./assets/divider.svg" width="100%"/></p>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
@@ -50,7 +54,7 @@ class Aman:
 - 🎯 Working towards **Google Summer of Code 2027**
 - ⚡ Fun fact: I score dev tools 0 → 100 for fun (and so does my code)
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%"/></p>
 
 ## 🛠️ Tech Stack
 
@@ -71,9 +75,13 @@ class Aman:
   <img src="https://img.shields.io/badge/IoT-Smart%20Systems-00979D?style=flat-square&logo=arduino&logoColor=white"/>
 </p>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%"/></p>
 
 ## 🚀 Featured Projects
+
+<p align="center">
+  <img src="./assets/radar.svg" width="440" alt="StackRadar radar sweep"/>
+</p>
 
 <table>
 <tr>
@@ -127,7 +135,7 @@ class Aman:
 
 <p align="center"><b>More builds:</b> 🌱 <a href="https://github.com/amantebriwal4321/Agroshield_ai">AgroShield AI</a> · 🛣️ <a href="https://road-pulse-ai.vercel.app">RoadPulse</a> · ♻️ <a href="https://github.com/amantebriwal4321/greenchain-conserve">GreenChain</a> · 💼 <a href="https://amantebriwal4321.github.io/My-Portfolio/">Portfolio</a></p>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%"/></p>
 
 ## 📊 GitHub Analytics
 
@@ -140,13 +148,37 @@ class Aman:
   <img src="https://streak-stats.demolab.com?user=amantebriwal4321&theme=tokyonight&hide_border=true&background=0d1117&ring=7ee2a8&fire=7ee2a8&currStreakLabel=7ee2a8" />
 </p>
 
+<p align="center">
+  <img src="./assets/activity.svg" width="100%" alt="activity over the last year"/>
+  <img src="./assets/year.svg" width="100%" alt="the year, one character per day"/>
+</p>
+
+### ⚡ Recently Shipped
+
+<p align="center">
+  <img src="./assets/recent.svg" width="100%" alt="recently shipped repositories"/>
+</p>
+
+
 ## 🏆 Trophies
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=amantebriwal4321&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6&title=Commits,Repositories,PullRequest,Issues,Stars,Followers" />
 </p>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%"/></p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amantebriwal4321/amantebriwal4321/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amantebriwal4321/amantebriwal4321/output/github-snake.svg" />
+    <img alt="contribution snake eating my contribution graph" src="https://raw.githubusercontent.com/amantebriwal4321/amantebriwal4321/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+<p align="center"><img src="./assets/divider.svg" width="100%"/></p>
 
 ## 🌍 Open Source Journey
 
