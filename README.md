@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/portrait.svg" width="400" alt="Aman Tebriwal, animated tech portrait"/>
+  <img src="./assets/core.svg" width="380" alt="animated holographic globe"/>
 </p>
 
 <p align="center">
